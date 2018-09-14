@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to My Page!
 
-You can use the [editor on GitHub](https://github.com/Kensleemoy/kensleemoy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I was not entirely sure what should go here, so things might seem a bit random.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Main Goal
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My main goal is to get a better feel for _markdown_ language. 
+I have worked with some markdown before, but it was a little different than the **.md** files, but they are still similar. 
 
 ```markdown
 Syntax highlighted code block
